@@ -31,7 +31,7 @@ use_xft yes
 xftalpha 0
 xftfont Raleway:size=10
 
-override_utf8_locale yes
+#override_utf8_locale yes
 
 imlib_cache_size 0
 
