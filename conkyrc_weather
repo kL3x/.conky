@@ -25,7 +25,7 @@ draw_shades no
 draw_outline no 
 draw_borders no
 draw_graph_borders no
-
+#
 # Text settings #
 use_xft yes
 xftalpha 0
