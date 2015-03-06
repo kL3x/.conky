@@ -1,10 +1,10 @@
-# Conky settings #
+## Conky settings #
 background yes
 update_interval 1
 double_buffer yes
 no_buffers yes
 
-# Window specifications #
+## Window specifications #
 gap_x 0
 gap_y 40
 minimum_size 600 360
@@ -20,7 +20,7 @@ own_window_hints undecorate,sticky,skip_taskbar,skip_pager,below
 #border_inner_margin 0
 #border_outer_margin 0
 
-# Graphics settings #
+## Graphics settings #
 draw_shades no
 draw_outline no 
 draw_borders no
