@@ -5,7 +5,7 @@ double_buffer yes
 no_buffers yes
 
 ## Window specifications #
-gap_x 3250
+gap_x 3215
 gap_y 9
 minimum_size 600 360
 maximum_width 600
